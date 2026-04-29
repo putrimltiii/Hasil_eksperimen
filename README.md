@@ -1,18 +1,14 @@
 # Hasil_eksperimen
 ## Eksperimen Cross-Site Scripting (XSS) - Tugas UTS Pemrograman Web 2
 
-### Identitas
 - **Nama:** Putri Melati Ramadhaniati
-- **NIM:** 3124410194
+- **NIM:** 312410194
 - **Kelas:** I241B
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Pelita Bangsa
 - **Mata Kuliah:** Pemrograman Web 2
 
----
 
-### Deskripsi
-Repository ini berisi hasil eksperimen Cross-Site Scripting (XSS) yang dilakukan secara langsung menggunakan Node.js dan Express.js sebagai bagian dari Tugas UTS Mata Kuliah Pemrograman Web 2.
 
 ---
 
@@ -36,6 +32,15 @@ Payload yang digunakan:
 
 #### Eksperimen 2 - Mitigasi Berhasil  
 Setelah menambahkan fungsi `escapeHtml`, payload yang sama tampil sebagai teks biasa. Tidak ada pop-up, script tidak dieksekusi.
+
+### Screenshot Hasil Eksperimen
+
+#### Eksperimen 1 - Serangan XSS Berhasil
+<img width="1566" height="784" alt="image" src="https://github.com/user-attachments/assets/ca75e537-0603-46f0-bb22-f44d87adad27" />
+
+#### Eksperimen 2 - Mitigasi Berhasil
+<img width="1566" height="784" alt="image" src="https://github.com/user-attachments/assets/4c43900b-111e-4db3-b301-740514b40a9a" />
+
 
 ---
 

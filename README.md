@@ -43,9 +43,3 @@ Setelah menambahkan fungsi `escapeHtml`, payload yang sama tampil sebagai teks b
 
 
 ---
-
-### Teknologi
-- Node.js v24.15.0
-- Express.js
-- Windows 10
-- Microsoft Edge
